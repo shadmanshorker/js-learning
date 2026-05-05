@@ -1,3 +1,9 @@
+### Day 2 — May 4, 2026 ✅
+- Learned about Functions
+- Practiced: function declaration, parameters, return values, arrow functions
+- Solved 6 mini exercises (greetings, math operations, even/odd check)
+- **Time spent:** 30 minutes
+- **Key insight:** Functions are reusable — write once, use many times
 # Day 1 - May 3, 2026
 
 ## What I learned today
